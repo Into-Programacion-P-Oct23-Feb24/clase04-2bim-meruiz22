@@ -28,7 +28,7 @@ public class Ejemplo041 {
             for (int j = 0; j < arreglo1[i].length; j++) {
                 System.out.printf(" %s %d", cadena, arreglo2[i][j]);
             }
-            //System.out.print("\n");
+            System.out.print("\n");
         }
     }
 
